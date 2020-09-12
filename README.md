@@ -5,7 +5,7 @@ This project allows you to shorten URLs.
 
 ### Technologies Used:
 - Python 3
-- pyshorteners
+- pyshorteners ( pip install pyshorteners )
 
 ### What I learned:
 
